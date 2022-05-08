@@ -1,0 +1,9 @@
+level,injury,type,n
+highschool,brain,direct,4
+highschool,cardiac,indirect,8
+college,sickle cell,indirect,1
+highschool,heat,indirect,2
+college,heat,indirect,1
+highschool,cardiac,nonextertion,1
+college,cardiac,nonextertion,2
+highschool,unknown,unknown,1
